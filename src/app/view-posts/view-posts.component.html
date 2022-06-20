@@ -1,0 +1,44 @@
+<div class="container post-desp">
+<div class="post">
+<img class="post-img" src={{img}} alt="">
+<div class="overlay" *ngIf="show">
+    <div class="like-icon">
+        <span class="fa-stack fa-lg">
+            <i class="fa-solid fa-heart fa-2xl"></i>
+            <i class="fa fa-solid fa-stack fa-sm">{{likes}}</i>
+        </span>
+    </div>
+</div>
+<p class="caption">{{caption}}</p>
+<div>
+    <button class="like-btn" (click)="like(id)" (click)="showIcon(id)">
+        <span>💙</span>
+        <span>{{likes}}</span>
+    </button>
+    <button class="comment-btn">
+        <span>💬</span>
+        <span>4</span>
+    </button>
+</div>
+</div>
+<div class="add-comment">
+        <div class="comments inline">
+            <p><b>jdaveknoxWes.</b>  Wes. WE should have lunch.</p><hr>
+            </div>
+            <div class="comments inline">
+                <p><b>jdaveknox</b>#adults</p><hr>
+            </div>
+            <div class="comments inline">
+                <p><b>Lilly.</b> You look beautiful.</p><hr>
+            </div>
+            <div class="comments inline">
+                <p><b>jdave.</b>  Wes. WE should have lunch.</p><hr>
+            </div>
+            <div class="type">
+                <form action="">
+                    <input type="text" placeholder="Author"><hr>
+                    <input type="text" placeholder="comment"><hr> 
+                </form>
+            </div>
+</div>
+<router-outlet></router-outlet>

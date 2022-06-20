@@ -1,0 +1,81 @@
+.post-desp{
+    width: 60%;
+    height: 100%;
+    border: 3px solid #dddddd;
+    padding-bottom: 150px;
+    align-items: center;
+    display: flex;
+}
+.post-img{
+    width:500px;
+    height: 500px;
+    margin-top: 10px;
+}
+.caption{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.post,
+.add-comment
+{
+    flex:1;
+    margin-left: 10px;
+}
+.like-btn{
+    margin: 0.5em 0.5em 0.5em 0px;
+    width: 45%;
+    height: 38px;
+    border: 1px solid #dddddd;
+}
+.comment-btn{
+    margin: 0.5em 0.5em 0.5em 0px;
+    width:45%;
+    height: 38px;
+    border: 1px solid #dddddd;
+
+}
+.like-btn:hover{
+    background-color: rgb(11, 89, 137);
+}
+.comment-btn:hover{
+    background-color: rgb(11, 89, 137);
+}
+b{
+    color: rgb(11, 89, 137);
+}
+.type{
+    flex:1;
+}
+input{
+    border: none;
+    background-color: transparent;
+    resize: none;
+    outline: none;
+}
+.overlay {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    opacity: 0.3;
+    transition: .3s ease;
+    background-color: transparent;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+.like-icon {
+    position: absolute;
+    color: #ffffff;
+    font-size: 2rem;
+    left: 35%;
+    bottom: 30%;
+}
+.icon{
+    width:500px;
+}
+.fa{
+    bottom: 102%;
+    left: 15%;
+    color: black;
+}

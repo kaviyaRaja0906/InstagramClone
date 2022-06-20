@@ -1,0 +1,89 @@
+.post-section{
+margin-top: 7%;
+display: flex;
+flex-wrap: wrap;
+font-family: 'Lora', serif;
+}
+#post{
+    width: 25%;
+    margin-left: 5%;
+    margin-bottom: 5%;
+    border: 3px solid #ddd;
+    padding-bottom: 100px;
+    position: relative;
+}
+/*.middle-post{
+    width: 25%;
+    float: left;
+    margin-left: 2%;
+    margin-bottom: 5%;
+    border: 3px solid #ddd;
+    padding-bottom: 100px;
+}
+.right-post{
+    width: 25%;
+    float: right;
+    margin-left: 2%;
+    margin-right: 10%;
+    margin-bottom: 5%;
+    border: 3px solid #ddd;
+    padding-bottom: 100px;
+}*/
+#post-img{
+    width: 325px;
+    height: 380px;
+    padding-right: 7%;
+    display:f
+}
+.caption{
+    margin-left: 20px;
+}
+.like-btn{
+    margin: 0.5em 0.5em 0.5em 0px;
+    width: 40%;
+    height: 38px;
+    border: 1px solid #dddddd;
+}
+.comment-btn{
+    margin: 0.5em 0.5em 0.5em 0px;
+    width:40%;
+    height: 38px;
+    border: 1px solid #dddddd;
+
+}
+.like-btn:hover{
+    background-color: rgb(11, 89, 137);
+}
+.comment-btn:hover{
+    background-color: rgb(11, 89, 137);
+}
+.like-anim{
+    filter: grayscale(60%);
+}
+.overlay {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    opacity: 0.3;
+    transition: .3s ease;
+    background-color: transparent;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+.like-icon {
+    position: absolute;
+    color: #ffffff;
+    font-size: 2rem;
+    left: 30%;
+    bottom: 60%;
+}
+.icon{
+    width:500px;
+}
+.fa{
+    bottom: 102%;
+    left: 15%;
+    color: black;
+}

@@ -1,0 +1,168 @@
+ [
+{
+    "id":0,
+    "img":"assets/posts/Posts1.jpg",
+    "caption":"Lunch #hamont",
+    "likes":56
+    
+},
+{
+    "id":1,
+    "img":"assets/posts/Posts2.jpg",
+    "caption":"Tacos for breakfast. I love you Austin. 🇺🇸",
+    "likes":72
+},
+{
+    "id":2,
+    "img":"assets/posts/Posts3.jpg",
+    "caption":"Snow! ⛄️🌨❄️ #lifewithsnickers",
+    "likes":98
+},
+{
+    "id":3,
+    "img":"assets/posts/Posts4.jpg",
+    "caption":"New Stickers just came in. I'll do another mailing in a few weeks if you want some. #javascript",
+    "likes":45
+
+},
+{
+    "id":4,
+    "img":"assets/posts/Posts5.jpg",
+    "caption":"Making baby pancakes for one early rising baby. ☕️🍴",
+    "likes":46
+
+},
+{
+    "id":5,
+    "img":"assets/posts/Posts6.jpg",
+    "caption":"New Stickers just came in. I'll do another mailing in a few weeks if you want some. #javascript",
+    "likes":52
+
+},
+{
+    "id":6,
+    "img":"assets/posts/Posts7.jpg",
+    "caption":"Tacos for breakfast. I love you Austin. 🇺🇸",
+    "likes":60
+
+},
+{
+    "id":7,
+    "img":"assets/posts/Posts8.jpg",
+    "caption":"Tried poke for the first time at @pokehbar. Delicious! It's like a bowl of sushi",
+    "likes":60
+
+},
+{
+    "id":8,
+    "img":"assets/posts/Posts9.jpg",
+    "caption":"Brunchin'",
+    "likes":80
+
+},
+{
+    "id":9,
+    "img":"assets/posts/Posts10.jpg",
+    "caption":"2015 can be summed up with one baby and a many lines of code. And sometimes a coding baby. 👶🏼⌨",
+    "likes":120
+
+},
+{
+    "id":10,
+    "img":"assets/posts/Posts11.jpg",
+    "caption":"Lekker Chocoladeletter",
+    "likes":110
+
+},
+{
+    "id":11,
+    "img":"assets/posts/Posts12.jpg",
+    "caption":"Just discovered the #hamont farmers market has a new ramen place! 🍜",
+    "likes":100
+
+},
+{
+    "id":12,
+    "img":"assets/posts/Posts13.jpg",
+    "caption":"⛄️",
+    "likes":20
+
+},
+{
+    "id":13,
+    "img":"assets/posts/Posts14.jpg",
+    "caption":"6 page spread on flexbox in this months netmag!",
+    "likes":55
+
+},
+{
+    "id":14,
+    "img":"assets/posts/Posts15.jpg",
+    "caption":"Hanging out in my office waiting for 5:00 beers to come around.",
+    "likes":69
+
+},
+{
+    "id":15,
+    "img":"assets/posts/Posts16.jpg",
+    "caption":"Today I learned that a long pull espresso is called a 'lungo'",
+    "likes":17
+
+},
+{
+    "id":16,
+    "img":"assets/posts/Posts17.jpg",
+    "caption":"Awesome hand lettered gift from @eunibae and the HackerYou crew.",
+    "likes":6
+
+},
+{
+    "id":17,
+    "img":"assets/posts/Posts18.jpg",
+    "caption":"Some serious hardware meet JavaScript hacks going down this week at hackeryou. Excited for demo day!",
+    "likes":12
+
+},
+{
+    "id":18,
+    "img":"assets/posts/Posts19.jpg",
+    "caption":"Some major audio upgrades coming to my next videos 😍",
+    "likes":48
+
+},
+{
+    "id":19,
+    "img":"assets/posts/Posts20.jpg",
+    "caption":"My baby and me. Thanks to @bearandsparrow for this one.",
+    "likes":25
+
+},
+{
+    "id":20,
+    "img":"assets/posts/Posts21.jpg",
+    "caption":"It's too early. Send coffee.",
+    "likes":51
+
+},
+{
+    "id":21,
+    "img":"assets/posts/Posts22.jpg",
+    "caption":"They both have figured it out. #lifewithsnickers",
+    "likes":74
+
+},
+{
+    "id":22,
+    "img":"assets/posts/Posts23.jpg",
+    "caption":"Kaitlin decorated the house for the Christmas. So gezellig! #casabos",
+    "likes":58
+
+},
+{
+    "id":23,
+    "img":"assets/posts/Posts24.jpg",
+    "caption":"Trying the new Hamilton Brewery beer. Big fan.",
+    "likes":95
+
+}
+]
